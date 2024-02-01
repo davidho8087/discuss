@@ -32,6 +32,9 @@ yarn-error.log*
 .env.production
 .env
 
+#local db
+dev.*
+
 #IDE
 .idea
 .vscode

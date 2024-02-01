@@ -30,6 +30,10 @@ yarn-error.log*
 .env.development
 .env.qat
 .env.production
+.env
+
+#local db
+dev.*
 
 #IDE
 .idea
